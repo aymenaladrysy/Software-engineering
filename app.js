@@ -1,1 +1,1 @@
-ECHO is on.
+alert("hello Aymen Al-adrysy");
